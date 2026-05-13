@@ -1,0 +1,13 @@
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\controller\AuthController.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\controller\ProductoController.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\dto\LoginRequest.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\dto\LoginResponse.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\dto\ProductoDTO.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\model\Producto.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\repository\ProductoRepository.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\security\JwtFilter.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\security\JwtService.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\security\JwtUtil.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\security\SecurityConfig.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\service\ProductoService.java
+C:\Users\Cris\Desktop\techstore-api\techstore-api\src\main\java\com\techstore\techstore_api\TechstoreApiApplication.java
